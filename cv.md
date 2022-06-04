@@ -1,0 +1,15 @@
+# Daniil Lifanov [my image](C:\Users\79170\Pictures)
+hi my name is Daniil, i am a student of rsschool
+you can send me email on:lifanovdaniil@gmail.com
+my nickname in Discord Daniillif#6841
+1. In my interests included:
+1. Sports
+2. Games
+3. Small repairs of mobile equipment
+4. Love to my old cat)
+
+####little example of code on codewars
+`function multiply(a, b){
+  a * b
+}`
+
