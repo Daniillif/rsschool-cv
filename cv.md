@@ -1,5 +1,5 @@
 # Daniil Lifanov 
-![my image](C:\Users\79170\Pictures\k6WlGvPmNmLjdrYqczXXbqytCmELTEjXjbtGU9hTq5oCQr6ioLcTztsEWdlifNzLFmFYD1Ic.jpg  "my best photo")
+[image](/Pictures/k6WlGvPmNmLjdrYqczXXbqytCmELTEjXjbtGU9hTq5oCQr6ioLcTztsEWdlifNzLFmFYD1Ic.jpg 'image')
 
 
 hi my name is Daniil, i am a student of rsschool
