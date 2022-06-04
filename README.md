@@ -1,1 +1,1 @@
-https://github.com/Daniillif/rsschool-cv/cv
+https://Daniillif/github.io/rsschool-cv/cv
