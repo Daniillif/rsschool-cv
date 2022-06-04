@@ -1,5 +1,10 @@
-# Daniil Lifanov [my image](C:\Users\79170\Pictures)
+# Daniil Lifanov 
+![my image](C/Users/79170/Pictures  "my best photo")
+
+
 hi my name is Daniil, i am a student of rsschool
+
+
 you can send me email on:lifanovdaniil@gmail.com
 my nickname in Discord Daniillif#6841
  
