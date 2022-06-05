@@ -1,6 +1,5 @@
 # Daniil Lifanov 
-[image](/Pictures/k6WlGvPmNmLjdrYqczXXbqytCmELTEjXjbtGU9hTq5oCQr6ioLcTztsEWdlifNzLFmFYD1Ic.jpg 'image')
-
+![my photo](https://user-images.githubusercontent.com/89011926/172042968-8d2b4b04-19e3-442d-87f4-45b9c2b9e02b.jpg)
 
 hi my name is Daniil, i am a student of rsschool
 
